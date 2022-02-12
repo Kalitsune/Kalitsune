@@ -28,13 +28,17 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 <br>
 
 ## 📊 Github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kalitsune&show_icons=true&theme=github_dark" width="50%" alt="Kalitsune's Github Stats" /><img src = "https://github-readme-streak-stats.herokuapp.com?user=kalitsune&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=4B8DDA&fire=1E6EEA&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=0D1117&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0D1117" width="50%"/>
-
+<!--dark-->
+<img src="https://github-readme-stats.vercel.app/api?username=Kalitsune&show_icons=true&theme=github_dark#gh-dark-mode-only" width="50%" alt="Kalitsune's Github Stats" /><img src = "https://github-readme-streak-stats.herokuapp.com?user=kalitsune&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=4B8DDA&fire=1E6EEA&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=0D1117&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0D1117#gh-dark-mode-only" width="50%"/>
+<!--light
+<img src="https://github-readme-stats.vercel.app/api?username=Kalitsune&show_icons=true#gh-light-mode-only" width="50%" alt="Kalitsune's Github Stats" /><img src = "https://github-readme-streak-stats.herokuapp.com?user=kalitsune&date_format=M%20j%5B%2C%20Y%5D&background=fffefe&ring=4B8DDA&fire=1E6EEA&sideNums=333333&currStreakNum=333333&dates=fffefe&sideLabels=333333&currStreakLabel=333333&stroke=fffefe#gh-light-mode-only" width="50%"/>-->
 <br>
 
 ## 🌍️ Top languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalitsune&theme=github_dark&layout=compact" width="50%" alt="Top Langs"><img align= "right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="25%">
+<!--dark-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalitsune&theme=github_dark&layout=compact#gh-dark-mode-only" width="50%" alt="Top Langs"><img align= "right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif#gh-dark-mode-only" width="25%">
+<!--light
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalitsune&layout=compact#gh-light-mode-only" width="50%" alt="Top Langs"><img align= "right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif#gh-light-mode-only" width="25%" >-->
 
 <br>
 
@@ -66,7 +70,7 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
     <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
     <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
-    <img src="https://simpleicons.vercel.app/github/181717" width="50px" >
+    <img src="https://simpleicons.vercel.app/github/ffffff#gh-dark-mode-only" width="50px" >
     <img src="https://simpleicons.vercel.app/gitkraken/179287" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
 </span>

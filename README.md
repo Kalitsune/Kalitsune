@@ -32,4 +32,4 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 <br>
 
 ## 🌍️ Top languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalitsune&theme=github_dark&layout=compact" width="50%" alt="Top Langs"><img align= "right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalitsune&theme=github_dark&layout=compact" width="50%" alt="Top Langs"><img align= "right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="25%">

@@ -74,3 +74,11 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/gitkraken/179287" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
 </span>
+
+<br>
+<br>
+<br>
+
+<h1 align="center">Thanks for reading 💖</h1>
+
+<img src="./ressources/end.gif" width= "100%">

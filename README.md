@@ -1,7 +1,9 @@
-![Header](./ressources/HEADER-run.gif "Header")
+<img src="./ressources/HEADER-run.gif" width= "100%">
 
-[![Github](https://img.shields.io/github/followers/Kalitsune?label=Follow&logo=github&color=7289da&style=for-the-badge)](https://github.com/Kalitsune) 
-[![Discord](https://dcbadge.vercel.app/api/shield/352123793096835082?theme=default-inverted)](https://discord.com/)
+<p align="center">
+    <a href="https://github.com/Kalitsune"> <img src="https://img.shields.io/github/followers/Kalitsune?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>
+    <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/352123793096835082?theme=default-inverted"></a>
+</p>
 
 # Hi `class Developers()` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 My name is Fanny, thanks for taking the time to read my github profile! 😊

@@ -39,10 +39,34 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 <br>
 
 ## 🛠️ Languages & Tools
-<!--https://github.com/devicons/devicon/tree/master/icons-->
+<!--browse icons: https://simpleicons.org/-->
+<!--use icons: https://simpleicons.vercel.app/[icon name]/[color]-->
+<!--get hex easily: https://github.com/simple-icons/simple-icons/blob/develop/_data/simple-icons.json-->
 
 ### ⚙️ Languages & Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" width="50px">
+<span>
+    <img src="https://simpleicons.vercel.app/cplusplus/00599C" width="50px" >
+    <img src="https://simpleicons.vercel.app/qt/41CD52" width="50px" >
+    <img src="https://simpleicons.vercel.app/python/3776AB" width="50px" >
+    <img src="https://simpleicons.vercel.app/go/00ADD8" width="50px" >
+    <img src="https://simpleicons.vercel.app/nodedotjs/339933" width="50px" >
+    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
+    <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
+    <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
+    <img src="https://simpleicons.vercel.app/mariadb/003545" width="50px" >
+</span>
+
+<br>
 
 ### 🔨Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" width="50px">
+<span>
+    <img src="https://simpleicons.vercel.app/adobe/FF0000" width="50px" >
+    <img src="https://simpleicons.vercel.app/blender/F5792A" width="50px" >
+    <img src="https://simpleicons.vercel.app/trello/0052CC" width="50px" >
+    <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
+    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
+    <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
+    <img src="https://simpleicons.vercel.app/github/181717" width="50px" >
+    <img src="https://simpleicons.vercel.app/gitkraken/179287" width="50px" >
+    <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
+</span>

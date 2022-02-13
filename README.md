@@ -12,17 +12,17 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 ## About Me 👒
 
-<img width="55%" align="right" alt="Github" src="./ressources/github-explore.svg" />
-  
-- 💬 I love talking with people so feel free to contact me 😜
+<img width="53%" align="right" alt="Github" src="./ressources/github-explore.svg" />
 
-- 🙋‍♀️ my pronouns are `she/her`
+💬 ੭ㆍI love talking with people so feel free to contact me 😜
 
-- 📸 I like [photography](https://instagram.com/kalitsune)
+🌸 ੭ㆍmy pronouns are `she/her`
+
+📸 ੭ㆍI like [photography](https://instagram.com/kalitsune)
   
-- 👧 I'm 15yo
+🪐 ੭ㆍI'm 15yo
   
--  I'm 🇫🇷 & I lived in 🇺🇸
+💫 ੭ㆍI'm 🇫🇷 & I lived in 🇺🇸
 
 <br>
 <br>

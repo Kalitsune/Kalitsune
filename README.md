@@ -5,7 +5,7 @@
     <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/352123793096835082?theme=default-inverted"></a>
 </p>
 
-# Hi `class Developers()` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# Hi `class Developers()` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 <br>
@@ -22,7 +22,7 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
   
 🪐 ੭ㆍI'm 15yo
   
-💫 ੭ㆍI'm 🇫🇷 & I lived in 🇺🇸
+💫 ੭ㆍI'm French 🇫🇷 but I lived in USA 🇺🇸
 
 <br>
 <br>

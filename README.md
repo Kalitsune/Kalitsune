@@ -14,15 +14,15 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 <img width="53%" align="right" alt="Github" src="./ressources/github-explore.svg" />
 
-💬 ੭ㆍI love talking with people so feel free to contact me 😜
-
-🌸 ੭ㆍmy pronouns are `she/her`
+🌸 ੭ㆍMy pronouns are `she/her`
 
 📸 ੭ㆍI like [photography](https://instagram.com/kalitsune)
   
 🪐 ੭ㆍI'm 16yo
   
-💫 ੭ㆍI'm French 🇫🇷 but I lived in USA 🇺🇸
+💫 ੭ㆍSpeak to me in 🇨🇵 or 🇺🇸
+
+💬 ੭ㆍFeel free to contact me 😜
 
 <br>
 <br>
@@ -50,13 +50,9 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 ### ⚙️ Languages & Frameworks
 <span>
     <img src="https://simpleicons.vercel.app/cplusplus/00599C" width="50px" >
-    <img src="https://simpleicons.vercel.app/qt/41CD52" width="50px" >
     <img src="https://simpleicons.vercel.app/python/3776AB" width="50px" >
     <img src="https://simpleicons.vercel.app/go/00ADD8" width="50px" >
-    <img src="https://simpleicons.vercel.app/nodedotjs/339933" width="50px" >
     <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
-    <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
-    <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
     <img src="https://simpleicons.vercel.app/mariadb/003545" width="50px" >
 </span>
 
@@ -64,15 +60,12 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 ### 🔨Tools
 <span>
-    <img src="https://simpleicons.vercel.app/adobe/FF0000" width="50px" >
-    <img src="https://simpleicons.vercel.app/blender/F5792A" width="50px" >
-    <img src="https://simpleicons.vercel.app/trello/0052CC" width="50px" >
     <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
-    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
     <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
     <img src="https://simpleicons.vercel.app/github/ffffff#gh-dark-mode-only" width="50px" >
-    <img src="https://simpleicons.vercel.app/gitkraken/179287" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
+    <img src="https://simpleicons.vercel.app/kubernetes/326CE5" width="50px" >
+
 </span>
 
 <br>

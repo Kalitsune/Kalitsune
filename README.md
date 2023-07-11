@@ -14,7 +14,7 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 <img width="53%" align="right" alt="Github" src="./ressources/github-explore.svg" />
 
-🌸 ੭ㆍMy pronouns are `she/her`
+🌸 ੭ㆍI'm a tech enthusiast
 
 📸 ੭ㆍI like [photography](https://instagram.com/kalitsune)
   

@@ -47,25 +47,39 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 <!--use icons: https://simpleicons.vercel.app/[icon name]/[color]-->
 <!--get hex easily: https://github.com/simple-icons/simple-icons/blob/develop/_data/simple-icons.json-->
 
-### ⚙️ Languages & Frameworks
+### ⚙️ Programming Languages
 <span>
     <img src="https://simpleicons.vercel.app/cplusplus/00599C" width="50px" >
     <img src="https://simpleicons.vercel.app/python/3776AB" width="50px" >
     <img src="https://simpleicons.vercel.app/go/00ADD8" width="50px" >
-    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
+    <img src="https://simpleicons.vercel.app/rust/CE412B" width="50px" >
     <img src="https://simpleicons.vercel.app/mariadb/003545" width="50px" >
 </span>
 
 <br>
 
-### 🔨Tools
+### 🌐 Web Technologies
 <span>
+    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
+    <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
+    <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
+    <img src="https://simpleicons.vercel.app/svelte/FF3E00" width="50px" >
+    <img src="https://simpleicons.vercel.app/vuedotjs/4FC08D" width="50px" >
+    <img src="https://simpleicons.vercel.app/tailwindcss/06B6D4" width="50px" >
+</span>
+
+<br>
+
+### 🔨 Misc
+<span>
+    <img src="https://simpleicons.vercel.app/neovim/57A143" width="50px" >
     <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
+    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
     <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
     <img src="https://simpleicons.vercel.app/github/ffffff#gh-dark-mode-only" width="50px" >
+    <img src="https://simpleicons.vercel.app/nginx/009639" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
     <img src="https://simpleicons.vercel.app/kubernetes/326CE5" width="50px" >
-
 </span>
 
 <br>

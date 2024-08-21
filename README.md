@@ -74,9 +74,7 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 <span>
     <img src="https://simpleicons.vercel.app/neovim/57A143" width="50px" >
     <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
-    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
     <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
-    <img src="https://simpleicons.vercel.app/github/ffffff#gh-dark-mode-only" width="50px" >
     <img src="https://simpleicons.vercel.app/nginx/009639" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
     <img src="https://simpleicons.vercel.app/kubernetes/326CE5" width="50px" >

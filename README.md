@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Kalitsune"> <img src="https://img.shields.io/github/followers/Kalitsune?label=Follow&logo=github&color=5865F2&style=for-the-badge"></a>
-    <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/352123793096835082?theme=default-inverted"></a>
+    <a href="https://discord.com/"> <img src="https://dcbadge.limes.pink/api/shield/352123793096835082?theme=default-inverted"></a>
 </p>
 
 # Hi `class Developers()` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">

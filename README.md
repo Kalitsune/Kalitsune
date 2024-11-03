@@ -18,7 +18,7 @@ My name is Fanny, thanks for taking the time to read my github profile! 😊
 
 📸 ੭ㆍI like [photography](https://instagram.com/kalitsune)
   
-🪐 ੭ㆍI'm 17yo
+🪐 ੭ㆍI'm 18yo
   
 💫 ੭ㆍSpeak to me in 🇨🇵 or 🇺🇸
 
